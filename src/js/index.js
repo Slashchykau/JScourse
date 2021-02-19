@@ -117,4 +117,4 @@ const personalMovieDB = {
 
 // console.log(arr);
 
-
+console.log(parseInt('122px', 10))
