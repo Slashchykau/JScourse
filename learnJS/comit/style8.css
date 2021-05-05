@@ -1,0 +1,9 @@
+.addBold {
+    font-weight: bold;
+}
+.addRed {
+    color: red;
+}
+.lineThrough{
+    text-decoration: line-through;
+}
